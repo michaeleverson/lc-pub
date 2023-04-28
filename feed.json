@@ -1,0 +1,67 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Little Cosmic",
+	"icon": "https://micro.blog/everson/avatar.jpg",
+	"home_page_url": "https://pub.littlecosmic.net/",
+	"feed_url": "https://pub.littlecosmic.net/feed.json",
+	"items": [
+		
+			{
+				"id": "http://everson.micro.blog/2023/03/11/i-feel-like.html",
+				
+				"content_html": "<p>I feel like the only redeeming part of lawn care is being able to use a tool called a “whipper snipper” and yet the world won’t let go of “line trimmer” or “string trimmer”. Yuck.</p>\n",
+				"content_text": "I feel like the only redeeming part of lawn care is being able to use a tool called a “whipper snipper” and yet the world won’t let go of “line trimmer” or “string trimmer”. Yuck.  \n",
+				"date_published": "2023-03-11T05:28:55+10:00",
+				"url": "https://pub.littlecosmic.net/2023/03/11/i-feel-like.html"
+			},
+			{
+				"id": "http://everson.micro.blog/2023/01/14/many-problems-need.html",
+				
+				"content_html": "<p>Many problems need massive effort to fix. Others we can solve if we just stop.</p>\n<p><a href=\"https://youtu.be/LQRAfJyEsko\">learn about farm animals in Aus</a></p>\n<p>Look for the best examples of each side of the argument. A bit of googling will show compassion and fact are on the same side.</p>\n<p>🌱</p>\n",
+				"content_text": "Many problems need massive effort to fix. Others we can solve if we just stop. \n\n[learn about farm animals in Aus](https://youtu.be/LQRAfJyEsko)\n\nLook for the best examples of each side of the argument. A bit of googling will show compassion and fact are on the same side.\n\n🌱\n",
+				"date_published": "2023-01-14T07:51:23+10:00",
+				"url": "https://pub.littlecosmic.net/2023/01/14/many-problems-need.html"
+			},
+			{
+				"id": "http://everson.micro.blog/2022/11/27/finding-a-sense.html",
+				"title": "Finding a Sense of Place",
+				"content_html": "<p>When I left my childhood town, I didn&rsquo;t make a new home. The city I moved to, and the many houses I lived in through the years, held people who became my friends and adopted family, but my connection to the place was like an explorer on an outward mission. The new city was nice, but surely I was bound for somewhere else. If you asked my where &lsquo;my home&rsquo; was, I&rsquo;d have had to think twice or I would name where I grew up.</p>\n<!-- raw HTML omitted -->\n<p>After a few decades of things that didn&rsquo;t happen, and as the pandemic rolled in, I put that aside. It has been an unexpected relief and a lowering of boundaries. Now saying &lsquo;I am home&rsquo; feels like a blurring of the edges of me. The noises, the strangers, the friends, the streets - ever young and shifting and all cupped in the the ancient hands of the surrounding mountains. All these things feel like a source of comfort and energy as I imagine them.</p>\n<!-- raw HTML omitted -->\n<p>I might say &lsquo;this is my home&rsquo;, but it feels like I belong to it. I know that the mountains easily cradle the city, so surely they can hold my troubles too.</p>\n<p>In the future I might move on, but I won&rsquo;t make the mistake of not making that place home.</p>\n",
+				"content_text": "When I left my childhood town, I didn't make a new home. The city I moved to, and the many houses I lived in through the years, held people who became my friends and adopted family, but my connection to the place was like an explorer on an outward mission. The new city was nice, but surely I was bound for somewhere else. If you asked my where 'my home' was, I'd have had to think twice or I would name where I grew up.\n\n<img src=\"uploads/2022/9a6e654d2f.jpg\" alt=\"Mountains\" title=\"Mountains_IMG_2155.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\nAfter a few decades of things that didn't happen, and as the pandemic rolled in, I put that aside. It has been an unexpected relief and a lowering of boundaries. Now saying 'I am home' feels like a blurring of the edges of me. The noises, the strangers, the friends, the streets - ever young and shifting and all cupped in the the ancient hands of the surrounding mountains. All these things feel like a source of comfort and energy as I imagine them.\n\n<img src=\"uploads/2022/b72b4a87fa.jpg\" alt=\"IMG 0667\" title=\"A cork forest\" border=\"0\" width=\"599\" height=\"378\" />\n\nI might say 'this is my home', but it feels like I belong to it. I know that the mountains easily cradle the city, so surely they can hold my troubles too.\n\nIn the future I might move on, but I won't make the mistake of not making that place home.\n",
+				"date_published": "2022-11-27T21:19:26+10:00",
+				"url": "https://pub.littlecosmic.net/2022/11/27/finding-a-sense.html",
+				"tags": ["Personal"]
+			},
+			{
+				"id": "http://everson.micro.blog/2022/11/23/emotionsare-they-precisely.html",
+				
+				"content_html": "<p><strong>e-motions</strong>\nAre they precisely made and rolling\nDown the conveyor belt into me\nAre they calculated cause and effect or\nWild shapes spotted in curly clouds\nAre they shifting past like symphonies or\nPiercing and stuck, tinnitus in silence.</p>\n",
+				"content_text": "**e-motions**\nAre they precisely made and rolling\nDown the conveyor belt into me\nAre they calculated cause and effect or\nWild shapes spotted in curly clouds\nAre they shifting past like symphonies or\nPiercing and stuck, tinnitus in silence. \n",
+				"date_published": "2022-11-23T07:31:41+10:00",
+				"url": "https://pub.littlecosmic.net/2022/11/23/emotionsare-they-precisely.html"
+			},
+			{
+				"id": "http://everson.micro.blog/2022/11/18/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781880448809\">The Shattered Goddess</a> by Darrell Schweitzer 📚</p>\n<p>I&rsquo;ve read this book many times. I love Schweitzer&rsquo;s take on dark fantasy. It is grim, but beautiful.</p>\n",
+				"content_text": "Finished reading: [The Shattered Goddess](https://micro.blog/books/9781880448809) by Darrell Schweitzer 📚\r\n\r\nI've read this book many times. I love Schweitzer's take on dark fantasy. It is grim, but beautiful.\n",
+				"date_published": "2022-11-18T20:52:08+10:00",
+				"url": "https://pub.littlecosmic.net/2022/11/18/finished-reading-the.html"
+			},
+			{
+				"id": "http://everson.micro.blog/2022/10/15/spotted-some-dragons.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Spotted some dragons, while out and about!</p>\n",
+				"content_text": "<img src=\"uploads/2022/8c469bf12d.jpg\" alt=\"IMG 3433\" title=\"IMG_3433.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\nSpotted some dragons, while out and about!\n",
+				"date_published": "2022-10-15T12:29:52+10:00",
+				"url": "https://pub.littlecosmic.net/2022/10/15/spotted-some-dragons.html"
+			},
+			{
+				"id": "http://everson.micro.blog/2018/09/04/084822.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2018/ac3074b12b.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2018-09-04T18:48:22+10:00",
+				"url": "https://pub.littlecosmic.net/2018/09/04/084822.html"
+			}
+	]
+}
