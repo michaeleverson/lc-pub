@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://everson.micro.blog/2023/05/15/in-the-midst.html",
+				
+				"content_html": "<p>In the midst of lines and crossed purposes, the buildings struggle to remember they are buildings. They dissolve into their parts - windows, eaves, paths - then further - lines, colours, points - then only light.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "In the midst of lines and crossed purposes, the buildings struggle to remember they are buildings. They dissolve into their parts - windows, eaves, paths - then further - lines, colours, points - then only light. \n\n<img src=\"uploads/2023/e10f83a38b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-05-15T21:20:53+10:00",
+				"url": "https://pub.littlecosmic.net/2023/05/15/in-the-midst.html"
+			},
+			{
 				"id": "http://everson.micro.blog/2023/03/11/i-feel-like.html",
 				
 				"content_html": "<p>I feel like the only redeeming part of lawn care is being able to use a tool called a “whipper snipper” and yet the world won’t let go of “line trimmer” or “string trimmer”. Yuck.</p>\n",
@@ -51,7 +59,7 @@
 				"id": "http://everson.micro.blog/2022/10/15/spotted-some-dragons.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Spotted some dragons, while out and about!</p>\n",
-				"content_text": "<img src=\"uploads/2022/8c469bf12d.jpg\" alt=\"IMG 3433\" title=\"IMG_3433.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\nSpotted some dragons, while out and about!\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/3555/2022/8c469bf12d.jpg\" alt=\"IMG 3433\" title=\"IMG_3433.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\nSpotted some dragons, while out and about!\n",
 				"date_published": "2022-10-15T12:29:52+10:00",
 				"url": "https://pub.littlecosmic.net/2022/10/15/spotted-some-dragons.html"
 			},
