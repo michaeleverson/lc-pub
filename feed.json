@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://everson.micro.blog/2023/10/14/yes-i-am.html",
+				
+				"content_html": "<p>Yes, I am surrounded by Singaporeans and Malaysians. Yes, I - an Australian - have used ‘lah’ in a sentence everyday this week. What am I becoming? Siao ah!😛 (learning their way of speaking is just damn shiok lah! I’m wanting to advance to meh and lor next.)</p>\n",
+				"content_text": "Yes, I am surrounded by Singaporeans and Malaysians. Yes, I - an Australian - have used ‘lah’ in a sentence everyday this week. What am I becoming? Siao ah!😛 (learning their way of speaking is just damn shiok lah! I’m wanting to advance to meh and lor next.)\n",
+				"date_published": "2023-10-14T10:51:38+08:00",
+				"url": "https://pub.littlecosmic.net/2023/10/14/yes-i-am.html"
+			},
+			{
 				"id": "http://everson.micro.blog/2023/09/24/what-i-love.html",
 				
 				"content_html": "<p>What I love about Emacs and Lisp for my own computer projects is that it’s a peaceful back water. Sure, it needs a lick of paint but you can still do everything they are doing in the big city and the property developers haven’t found an angle yet.</p>\n",
