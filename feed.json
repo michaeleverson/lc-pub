@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://everson.micro.blog/2023/11/18/my-first-time.html",
+				
+				"content_html": "<p>My first time trying some longer exposures. I can see there is a learning curve :). 1m20s with a ND1000 filter vs 1.6s with exposure compensation set to -5ev.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "My first time trying some longer exposures. I can see there is a learning curve :). 1m20s with a ND1000 filter vs 1.6s with exposure compensation set to -5ev.\n\n<img src=\"uploads/2023/488ee3c24e.jpg\" width=\"600\" height=\"399\" alt=\"A bridge across the water of the Singapore river. The water is glassy from the longer exposure time.\"><img src=\"uploads/2023/e352b38b57.jpg\" width=\"600\" height=\"399\" alt=\"A bridge across the water of the Singapore river. The water is choppier from the shorter exposure time.\">\n",
+				"date_published": "2023-11-18T23:26:32+08:00",
+				"url": "https://pub.littlecosmic.net/2023/11/18/my-first-time.html"
+			},
+			{
+				"id": "http://everson.micro.blog/2023/11/13/the-sun-punches.html",
+				
+				"content_html": "<p>The sun punches through the tropical haze across the Johore Straights</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The sun punches through the tropical haze across the Johore Straights\n\n<img src=\"uploads/2023/6f5d785b96.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-11-13T07:41:13+08:00",
+				"url": "https://pub.littlecosmic.net/2023/11/13/the-sun-punches.html"
+			},
+			{
 				"id": "http://everson.micro.blog/2023/11/12/temple-at-nightjohor.html",
 				
 				"content_html": "<p>Temple at night.\nJohor Bahru, Malaysia</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +58,7 @@
 				"id": "http://everson.micro.blog/2023/05/21/red-junglefowl-presented.html",
 				
 				"content_html": "<p>Red Junglefowl presented without comment.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Red Junglefowl presented without comment. \n\n<img src=\"uploads/2023/0407b97a8c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Red Junglefowl presented without comment. \n\n<img src=\"https://cdn.uploads.micro.blog/3555/2023/0407b97a8c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-05-21T09:05:06+08:00",
 				"url": "https://pub.littlecosmic.net/2023/05/21/red-junglefowl-presented.html"
 			},
@@ -50,7 +66,7 @@
 				"id": "http://everson.micro.blog/2023/05/17/sky-tweezers-war.html",
 				
 				"content_html": "<p>Sky tweezers / war memorial obelisk</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sky tweezers / war memorial obelisk\n\n<img src=\"uploads/2023/086557308b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Sky tweezers / war memorial obelisk\n\n<img src=\"https://cdn.uploads.micro.blog/3555/2023/086557308b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-17T19:55:04+08:00",
 				"url": "https://pub.littlecosmic.net/2023/05/17/sky-tweezers-war.html"
 			},
@@ -58,7 +74,7 @@
 				"id": "http://everson.micro.blog/2023/05/15/in-the-midst.html",
 				
 				"content_html": "<p>In the midst of lines and crossed purposes, the buildings struggle to remember they are buildings. They dissolve into their parts - windows, eaves, paths - then further - lines, colours, points - then only light.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In the midst of lines and crossed purposes, the buildings struggle to remember they are buildings. They dissolve into their parts - windows, eaves, paths - then further - lines, colours, points - then only light. \n\n<img src=\"uploads/2023/e10f83a38b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "In the midst of lines and crossed purposes, the buildings struggle to remember they are buildings. They dissolve into their parts - windows, eaves, paths - then further - lines, colours, points - then only light. \n\n<img src=\"https://cdn.uploads.micro.blog/3555/2023/e10f83a38b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-15T19:20:53+08:00",
 				"url": "https://pub.littlecosmic.net/2023/05/15/in-the-midst.html"
 			},
@@ -82,7 +98,7 @@
 				"id": "http://everson.micro.blog/2022/11/27/finding-a-sense.html",
 				"title": "Finding a Sense of Place",
 				"content_html": "<p>When I left my childhood town, I didn&rsquo;t make a new home. The city I moved to, and the many houses I lived in through the years, held people who became my friends and adopted family, but my connection to the place was like an explorer on an outward mission. The new city was nice, but surely I was bound for somewhere else. If you asked my where &lsquo;my home&rsquo; was, I&rsquo;d have had to think twice or I would name where I grew up.</p>\n<!-- raw HTML omitted -->\n<p>After a few decades of things that didn&rsquo;t happen, and as the pandemic rolled in, I put that aside. It has been an unexpected relief and a lowering of boundaries. Now saying &lsquo;I am home&rsquo; feels like a blurring of the edges of me. The noises, the strangers, the friends, the streets - ever young and shifting and all cupped in the the ancient hands of the surrounding mountains. All these things feel like a source of comfort and energy as I imagine them.</p>\n<!-- raw HTML omitted -->\n<p>I might say &lsquo;this is my home&rsquo;, but it feels like I belong to it. I know that the mountains easily cradle the city, so surely they can hold my troubles too.</p>\n<p>In the future I might move on, but I won&rsquo;t make the mistake of not making that place home.</p>\n",
-				"content_text": "When I left my childhood town, I didn't make a new home. The city I moved to, and the many houses I lived in through the years, held people who became my friends and adopted family, but my connection to the place was like an explorer on an outward mission. The new city was nice, but surely I was bound for somewhere else. If you asked my where 'my home' was, I'd have had to think twice or I would name where I grew up.\n\n<img src=\"uploads/2022/9a6e654d2f.jpg\" alt=\"Mountains\" title=\"Mountains_IMG_2155.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\nAfter a few decades of things that didn't happen, and as the pandemic rolled in, I put that aside. It has been an unexpected relief and a lowering of boundaries. Now saying 'I am home' feels like a blurring of the edges of me. The noises, the strangers, the friends, the streets - ever young and shifting and all cupped in the the ancient hands of the surrounding mountains. All these things feel like a source of comfort and energy as I imagine them.\n\n<img src=\"uploads/2022/b72b4a87fa.jpg\" alt=\"IMG 0667\" title=\"A cork forest\" border=\"0\" width=\"599\" height=\"378\" />\n\nI might say 'this is my home', but it feels like I belong to it. I know that the mountains easily cradle the city, so surely they can hold my troubles too.\n\nIn the future I might move on, but I won't make the mistake of not making that place home.\n",
+				"content_text": "When I left my childhood town, I didn't make a new home. The city I moved to, and the many houses I lived in through the years, held people who became my friends and adopted family, but my connection to the place was like an explorer on an outward mission. The new city was nice, but surely I was bound for somewhere else. If you asked my where 'my home' was, I'd have had to think twice or I would name where I grew up.\n\n<img src=\"https://cdn.uploads.micro.blog/3555/2022/9a6e654d2f.jpg\" alt=\"Mountains\" title=\"Mountains_IMG_2155.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\nAfter a few decades of things that didn't happen, and as the pandemic rolled in, I put that aside. It has been an unexpected relief and a lowering of boundaries. Now saying 'I am home' feels like a blurring of the edges of me. The noises, the strangers, the friends, the streets - ever young and shifting and all cupped in the the ancient hands of the surrounding mountains. All these things feel like a source of comfort and energy as I imagine them.\n\n<img src=\"https://cdn.uploads.micro.blog/3555/2022/b72b4a87fa.jpg\" alt=\"IMG 0667\" title=\"A cork forest\" border=\"0\" width=\"599\" height=\"378\" />\n\nI might say 'this is my home', but it feels like I belong to it. I know that the mountains easily cradle the city, so surely they can hold my troubles too.\n\nIn the future I might move on, but I won't make the mistake of not making that place home.\n",
 				"date_published": "2022-11-27T19:19:26+08:00",
 				"url": "https://pub.littlecosmic.net/2022/11/27/finding-a-sense.html",
 				"tags": ["Personal"]
@@ -107,7 +123,7 @@
 				"id": "http://everson.micro.blog/2022/10/15/spotted-some-dragons.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Spotted some dragons, while out and about!</p>\n",
-				"content_text": "<img src=\"uploads/2022/8c469bf12d.jpg\" alt=\"IMG 3433\" title=\"IMG_3433.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\nSpotted some dragons, while out and about!\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/3555/2022/8c469bf12d.jpg\" alt=\"IMG 3433\" title=\"IMG_3433.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\nSpotted some dragons, while out and about!\n",
 				"date_published": "2022-10-15T10:29:52+08:00",
 				"url": "https://pub.littlecosmic.net/2022/10/15/spotted-some-dragons.html"
 			},
@@ -115,7 +131,7 @@
 				"id": "http://everson.micro.blog/2018/09/04/084822.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2018/ac3074b12b.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n\n<img src=\"https://everson.micro.blog/uploads/2018/ac3074b12b.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-09-04T16:48:22+08:00",
 				"url": "https://pub.littlecosmic.net/2018/09/04/084822.html"
 			}
