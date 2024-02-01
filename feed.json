@@ -7,11 +7,35 @@
 	"items": [
 		
 			{
+				"id": "http://everson.micro.blog/2024/02/01/when-i-was.html",
+				
+				"content_html": "<p>When I was in Siem Reap recently, I had this amazing vegan hamburger and chips. So tasty and so giant haha. Seriously in my top 10 burgers ever. Before I left I thanked the lady who made it, then she said to me “I want to say something to you! Thank you for giving me the opportunity to serve you!” And then she did the Cambodian style thank you bow 🙏. For some reason I can’t stop thinking about it. Maybe it’s the combination of a slight culture shock moment, the wholesomeness and and the politeness.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "When I was in Siem Reap recently, I had this amazing vegan hamburger and chips. So tasty and so giant haha. Seriously in my top 10 burgers ever. Before I left I thanked the lady who made it, then she said to me “I want to say something to you! Thank you for giving me the opportunity to serve you!” And then she did the Cambodian style thank you bow 🙏. For some reason I can’t stop thinking about it. Maybe it’s the combination of a slight culture shock moment, the wholesomeness and and the politeness.\n\n<img src=\"uploads/2024/ea4c551c31.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-02-01T10:40:58+07:00",
+				"url": "https://pub.littlecosmic.net/2024/02/01/when-i-was.html"
+			},
+			{
+				"id": "http://everson.micro.blog/2023/12/22/somehow-the-airport.html",
+				
+				"content_html": "<p>Somehow the airport coffee in Melbourne is better than any Italian style coffee in Singapore.</p>\n",
+				"content_text": "Somehow the airport coffee in Melbourne is better than any Italian style coffee in Singapore. \n",
+				"date_published": "2023-12-22T03:19:59+07:00",
+				"url": "https://pub.littlecosmic.net/2023/12/22/somehow-the-airport.html"
+			},
+			{
+				"id": "http://everson.micro.blog/2023/12/21/nice-article-from.html",
+				
+				"content_html": "<p><a href=\"https://www.theverge.com/23990974/social-media-2023-fediverse-mastodon-threads-activitypub\">Nice article from the verge</a> about how the internet still has a chance to not be a complete commercial hellscape. I agree that we need a protocol to unbundle the big platforms into a thousand small ones linked via that protocol. And we have the Fediverse and ActivityPub already. Not perfect, but I’ll take it.</p>\n",
+				"content_text": "[Nice article from the verge](https://www.theverge.com/23990974/social-media-2023-fediverse-mastodon-threads-activitypub) about how the internet still has a chance to not be a complete commercial hellscape. I agree that we need a protocol to unbundle the big platforms into a thousand small ones linked via that protocol. And we have the Fediverse and ActivityPub already. Not perfect, but I’ll take it.  \n",
+				"date_published": "2023-12-21T11:02:48+07:00",
+				"url": "https://pub.littlecosmic.net/2023/12/21/nice-article-from.html"
+			},
+			{
 				"id": "http://everson.micro.blog/2023/12/19/dont-play-near.html",
 				
 				"content_html": "<p><a href=\"https://taylor.town/black-holes\">Don&rsquo;t Play Near Black Holes</a> - Some blackholes are stubborn :)</p>\n",
 				"content_text": "[Don't Play Near Black Holes](https://taylor.town/black-holes) - Some blackholes are stubborn :)\n",
-				"date_published": "2023-12-19T08:57:05+08:00",
+				"date_published": "2023-12-19T07:57:05+07:00",
 				"url": "https://pub.littlecosmic.net/2023/12/19/dont-play-near.html"
 			},
 			{
@@ -19,7 +43,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250847393\">The Saint of Bright Doors</a> by Vajra Chandrasekera 📚</p>\n<p>A boy gets his shadow cut off by his mother when he very young, which makes him apt to float into the sky and (maybe?) immune to fire. His mother also trains him to assassinate his father, which he is not keen on. He moves away to start a better life into an ancient city with magical doors, but his mother’s schemes are not so easily cast aside.</p>\n<p>The prose often pendulums into a dreamy, magical realism style then back into a more visceral dark fantasy.</p>\n<p>Fantastic read. Recommended.</p>\n",
 				"content_text": "Finished reading: [The Saint of Bright Doors](https://micro.blog/books/9781250847393) by Vajra Chandrasekera 📚\n\nA boy gets his shadow cut off by his mother when he very young, which makes him apt to float into the sky and (maybe?) immune to fire. His mother also trains him to assassinate his father, which he is not keen on. He moves away to start a better life into an ancient city with magical doors, but his mother’s schemes are not so easily cast aside. \n\nThe prose often pendulums into a dreamy, magical realism style then back into a more visceral dark fantasy. \n\nFantastic read. Recommended. \n",
-				"date_published": "2023-12-09T18:04:49+08:00",
+				"date_published": "2023-12-09T17:04:49+07:00",
 				"url": "https://pub.littlecosmic.net/2023/12/09/finished-reading-the.html"
 			},
 			{
@@ -27,7 +51,7 @@
 				"title": "slippery",
 				"content_html": "<p>The way to do what you want<br>\nis to do what you don&rsquo;t want<br>\njust a little longer*</p>\n<p>*how long? TBA</p>\n<p>The way to finally rest<br>\nis to work damn hard<br>\njust a little longer*</p>\n<p>*how long? TBA</p>\n<p>Solve seven kinds of poverty<br>\nby embracing an eighth<br>\njust a little longer*</p>\n<p>*how long? TBA</p>\n",
 				"content_text": "The way to do what you want  \nis to do what you don't want  \njust a little longer*  \n  \n*how long? TBA  \n  \nThe way to finally rest  \nis to work damn hard  \njust a little longer*  \n  \n*how long? TBA  \n  \nSolve seven kinds of poverty  \nby embracing an eighth  \njust a little longer*  \n  \n*how long? TBA  \n",
-				"date_published": "2023-11-28T11:17:46+08:00",
+				"date_published": "2023-11-28T10:17:46+07:00",
 				"url": "https://pub.littlecosmic.net/2023/11/28/opposite-world.html"
 			},
 			{
@@ -35,7 +59,7 @@
 				
 				"content_html": "<p>Overcast Gardens</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Overcast Gardens\n\n<img src=\"uploads/2023/010221b9f6.jpg\" width=\"600\" height=\"399\" alt=\"\"><img src=\"uploads/2023/8e7e71f586.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
-				"date_published": "2023-11-19T19:01:35+08:00",
+				"date_published": "2023-11-19T18:01:35+07:00",
 				"url": "https://pub.littlecosmic.net/2023/11/19/overcast-gardens.html"
 			},
 			{
@@ -43,7 +67,7 @@
 				
 				"content_html": "<p>My first time trying some longer exposures. I can see there is a learning curve :). 1m20s with a ND1000 filter vs 1.6s with exposure compensation set to -5ev.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "My first time trying some longer exposures. I can see there is a learning curve :). 1m20s with a ND1000 filter vs 1.6s with exposure compensation set to -5ev.\n\n<img src=\"uploads/2023/488ee3c24e.jpg\" width=\"600\" height=\"399\" alt=\"A bridge across the water of the Singapore river. The water is glassy from the longer exposure time.\"><img src=\"uploads/2023/e352b38b57.jpg\" width=\"600\" height=\"399\" alt=\"A bridge across the water of the Singapore river. The water is choppier from the shorter exposure time.\">\n",
-				"date_published": "2023-11-18T23:26:32+08:00",
+				"date_published": "2023-11-18T22:26:32+07:00",
 				"url": "https://pub.littlecosmic.net/2023/11/18/my-first-time.html"
 			},
 			{
@@ -51,7 +75,7 @@
 				
 				"content_html": "<p>The sun punches through the tropical haze across the Johore Straights</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The sun punches through the tropical haze across the Johore Straights\n\n<img src=\"uploads/2023/6f5d785b96.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-11-13T07:41:13+08:00",
+				"date_published": "2023-11-13T06:41:13+07:00",
 				"url": "https://pub.littlecosmic.net/2023/11/13/the-sun-punches.html"
 			},
 			{
@@ -59,7 +83,7 @@
 				
 				"content_html": "<p>Temple at night.\nJohor Bahru, Malaysia</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Temple at night.\nJohor Bahru, Malaysia\n\n<img src=\"uploads/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-11-12T20:03:33+08:00",
+				"date_published": "2023-11-12T19:03:33+07:00",
 				"url": "https://pub.littlecosmic.net/2023/11/12/temple-at-nightjohor.html"
 			},
 			{
@@ -67,7 +91,7 @@
 				
 				"content_html": "<p>Yes, I am surrounded by Singaporeans and Malaysians. Yes, I - an Australian - have used ‘lah’ in a sentence everyday this week. What am I becoming? Siao ah!😛 (learning their way of speaking is just damn shiok lah! I’m wanting to advance to meh and lor next.)</p>\n",
 				"content_text": "Yes, I am surrounded by Singaporeans and Malaysians. Yes, I - an Australian - have used ‘lah’ in a sentence everyday this week. What am I becoming? Siao ah!😛 (learning their way of speaking is just damn shiok lah! I’m wanting to advance to meh and lor next.)\n",
-				"date_published": "2023-10-14T10:51:38+08:00",
+				"date_published": "2023-10-14T09:51:38+07:00",
 				"url": "https://pub.littlecosmic.net/2023/10/14/yes-i-am.html"
 			},
 			{
@@ -75,7 +99,7 @@
 				
 				"content_html": "<p>What I love about Emacs and Lisp for my own computer projects is that it’s a peaceful back water. Sure, it needs a lick of paint but you can still do everything they are doing in the big city and the property developers haven’t found an angle yet.</p>\n",
 				"content_text": "What I love about Emacs and Lisp for my own computer projects is that it’s a peaceful back water. Sure, it needs a lick of paint but you can still do everything they are doing in the big city and the property developers haven’t found an angle yet. \n",
-				"date_published": "2023-09-24T13:36:00+08:00",
+				"date_published": "2023-09-24T12:36:00+07:00",
 				"url": "https://pub.littlecosmic.net/2023/09/24/what-i-love.html"
 			},
 			{
@@ -83,7 +107,7 @@
 				
 				"content_html": "<p>Singapore Botanical Gardens may well be one of the most amazing places I have ever seen. More to come from that place.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Singapore Botanical Gardens may well be one of the most amazing places I have ever seen. More to come from that place.\n\n<img src=\"uploads/2023/3e8da187fa.jpg\" width=\"451\" height=\"600\" alt=\"\"><img src=\"uploads/2023/cc61da343d.jpg\" width=\"600\" height=\"422\" alt=\"\"><img src=\"uploads/2023/abe5662e02.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
-				"date_published": "2023-05-21T22:52:35+08:00",
+				"date_published": "2023-05-21T21:52:35+07:00",
 				"url": "https://pub.littlecosmic.net/2023/05/21/singapore-botanical-gardens.html"
 			},
 			{
@@ -91,7 +115,7 @@
 				
 				"content_html": "<p>Red Junglefowl presented without comment.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Red Junglefowl presented without comment. \n\n<img src=\"uploads/2023/0407b97a8c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-05-21T09:05:06+08:00",
+				"date_published": "2023-05-21T08:05:06+07:00",
 				"url": "https://pub.littlecosmic.net/2023/05/21/red-junglefowl-presented.html"
 			},
 			{
@@ -99,7 +123,7 @@
 				
 				"content_html": "<p>Sky tweezers / war memorial obelisk</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Sky tweezers / war memorial obelisk\n\n<img src=\"uploads/2023/086557308b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-05-17T19:55:04+08:00",
+				"date_published": "2023-05-17T18:55:04+07:00",
 				"url": "https://pub.littlecosmic.net/2023/05/17/sky-tweezers-war.html"
 			},
 			{
@@ -107,7 +131,7 @@
 				
 				"content_html": "<p>In the midst of lines and crossed purposes, the buildings struggle to remember they are buildings. They dissolve into their parts - windows, eaves, paths - then further - lines, colours, points - then only light.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "In the midst of lines and crossed purposes, the buildings struggle to remember they are buildings. They dissolve into their parts - windows, eaves, paths - then further - lines, colours, points - then only light. \n\n<img src=\"uploads/2023/e10f83a38b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-05-15T19:20:53+08:00",
+				"date_published": "2023-05-15T18:20:53+07:00",
 				"url": "https://pub.littlecosmic.net/2023/05/15/in-the-midst.html"
 			},
 			{
@@ -115,7 +139,7 @@
 				
 				"content_html": "<p>I feel like the only redeeming part of lawn care is being able to use a tool called a “whipper snipper” and yet the world won’t let go of “line trimmer” or “string trimmer”. Yuck.</p>\n",
 				"content_text": "I feel like the only redeeming part of lawn care is being able to use a tool called a “whipper snipper” and yet the world won’t let go of “line trimmer” or “string trimmer”. Yuck.  \n",
-				"date_published": "2023-03-11T03:28:55+08:00",
+				"date_published": "2023-03-11T02:28:55+07:00",
 				"url": "https://pub.littlecosmic.net/2023/03/11/i-feel-like.html"
 			},
 			{
@@ -123,7 +147,7 @@
 				
 				"content_html": "<p>Many problems need massive effort to fix. Others we can solve if we just stop.</p>\n<p><a href=\"https://youtu.be/LQRAfJyEsko\">learn about farm animals in Aus</a></p>\n<p>Look for the best examples of each side of the argument. A bit of googling will show compassion and fact are on the same side.</p>\n<p>🌱</p>\n",
 				"content_text": "Many problems need massive effort to fix. Others we can solve if we just stop. \n\n[learn about farm animals in Aus](https://youtu.be/LQRAfJyEsko)\n\nLook for the best examples of each side of the argument. A bit of googling will show compassion and fact are on the same side.\n\n🌱\n",
-				"date_published": "2023-01-14T05:51:23+08:00",
+				"date_published": "2023-01-14T04:51:23+07:00",
 				"url": "https://pub.littlecosmic.net/2023/01/14/many-problems-need.html"
 			},
 			{
@@ -131,7 +155,7 @@
 				"title": "Finding a Sense of Place",
 				"content_html": "<p>When I left my childhood town, I didn&rsquo;t make a new home. The city I moved to, and the many houses I lived in through the years, held people who became my friends and adopted family, but my connection to the place was like an explorer on an outward mission. The new city was nice, but surely I was bound for somewhere else. If you asked my where &lsquo;my home&rsquo; was, I&rsquo;d have had to think twice or I would name where I grew up.</p>\n<!-- raw HTML omitted -->\n<p>After a few decades of things that didn&rsquo;t happen, and as the pandemic rolled in, I put that aside. It has been an unexpected relief and a lowering of boundaries. Now saying &lsquo;I am home&rsquo; feels like a blurring of the edges of me. The noises, the strangers, the friends, the streets - ever young and shifting and all cupped in the the ancient hands of the surrounding mountains. All these things feel like a source of comfort and energy as I imagine them.</p>\n<!-- raw HTML omitted -->\n<p>I might say &lsquo;this is my home&rsquo;, but it feels like I belong to it. I know that the mountains easily cradle the city, so surely they can hold my troubles too.</p>\n<p>In the future I might move on, but I won&rsquo;t make the mistake of not making that place home.</p>\n",
 				"content_text": "When I left my childhood town, I didn't make a new home. The city I moved to, and the many houses I lived in through the years, held people who became my friends and adopted family, but my connection to the place was like an explorer on an outward mission. The new city was nice, but surely I was bound for somewhere else. If you asked my where 'my home' was, I'd have had to think twice or I would name where I grew up.\n\n<img src=\"uploads/2022/9a6e654d2f.jpg\" alt=\"Mountains\" title=\"Mountains_IMG_2155.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\nAfter a few decades of things that didn't happen, and as the pandemic rolled in, I put that aside. It has been an unexpected relief and a lowering of boundaries. Now saying 'I am home' feels like a blurring of the edges of me. The noises, the strangers, the friends, the streets - ever young and shifting and all cupped in the the ancient hands of the surrounding mountains. All these things feel like a source of comfort and energy as I imagine them.\n\n<img src=\"uploads/2022/b72b4a87fa.jpg\" alt=\"IMG 0667\" title=\"A cork forest\" border=\"0\" width=\"599\" height=\"378\" />\n\nI might say 'this is my home', but it feels like I belong to it. I know that the mountains easily cradle the city, so surely they can hold my troubles too.\n\nIn the future I might move on, but I won't make the mistake of not making that place home.\n",
-				"date_published": "2022-11-27T19:19:26+08:00",
+				"date_published": "2022-11-27T18:19:26+07:00",
 				"url": "https://pub.littlecosmic.net/2022/11/27/finding-a-sense.html",
 				"tags": ["Personal"]
 			},
@@ -140,7 +164,7 @@
 				
 				"content_html": "<p><strong>e-motions</strong>\nAre they precisely made and rolling\nDown the conveyor belt into me\nAre they calculated cause and effect or\nWild shapes spotted in curly clouds\nAre they shifting past like symphonies or\nPiercing and stuck, tinnitus in silence.</p>\n",
 				"content_text": "**e-motions**\nAre they precisely made and rolling\nDown the conveyor belt into me\nAre they calculated cause and effect or\nWild shapes spotted in curly clouds\nAre they shifting past like symphonies or\nPiercing and stuck, tinnitus in silence. \n",
-				"date_published": "2022-11-23T05:31:41+08:00",
+				"date_published": "2022-11-23T04:31:41+07:00",
 				"url": "https://pub.littlecosmic.net/2022/11/23/emotionsare-they-precisely.html"
 			},
 			{
@@ -148,7 +172,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781880448809\">The Shattered Goddess</a> by Darrell Schweitzer 📚</p>\n<p>I&rsquo;ve read this book many times. I love Schweitzer&rsquo;s take on dark fantasy. It is grim, but beautiful.</p>\n",
 				"content_text": "Finished reading: [The Shattered Goddess](https://micro.blog/books/9781880448809) by Darrell Schweitzer 📚\r\n\r\nI've read this book many times. I love Schweitzer's take on dark fantasy. It is grim, but beautiful.\n",
-				"date_published": "2022-11-18T18:52:08+08:00",
+				"date_published": "2022-11-18T17:52:08+07:00",
 				"url": "https://pub.littlecosmic.net/2022/11/18/finished-reading-the.html"
 			},
 			{
@@ -156,7 +180,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Spotted some dragons, while out and about!</p>\n",
 				"content_text": "<img src=\"uploads/2022/8c469bf12d.jpg\" alt=\"IMG 3433\" title=\"IMG_3433.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\nSpotted some dragons, while out and about!\n",
-				"date_published": "2022-10-15T10:29:52+08:00",
+				"date_published": "2022-10-15T09:29:52+07:00",
 				"url": "https://pub.littlecosmic.net/2022/10/15/spotted-some-dragons.html"
 			},
 			{
@@ -164,7 +188,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n\n<img src=\"uploads/2018/ac3074b12b.jpg\" width=\"600\" height=\"600\" />\n",
-				"date_published": "2018-09-04T16:48:22+08:00",
+				"date_published": "2018-09-04T15:48:22+07:00",
 				"url": "https://pub.littlecosmic.net/2018/09/04/084822.html"
 			}
 	]
